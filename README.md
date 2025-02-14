@@ -3,7 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ImJuuh&theme=" alt="ImJuuh" /></a> </p>
 
-- 🔭 I’m currently working on **WiserBank**
 - 🌱 I’m currently learning **PHP, JS, Laravel**
 
 - 📫 How to reach me **@criativatek**
