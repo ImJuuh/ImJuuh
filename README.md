@@ -1,9 +1,5 @@
 ## Profile
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=imjuuh&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F136324910%3Fu%3De9bb30ad6f532f4d57c77a8046f1c268af4b51dd%26v%3D4" alt="imjuuh hero visual" />
-</p>
-
 **Julia Corrêa** · Frontend or full-stack engineer
 
 ## About
@@ -28,9 +24,7 @@
 
 ## Projects
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/projects?username=imjuuh&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F136324910%3Fu%3De9bb30ad6f532f4d57c77a8046f1c268af4b51dd%26v%3D4" alt="imjuuh projects visual" />
-</p>
+
 
 ## Contact
 
