@@ -1,35 +1,43 @@
-<h1 align="center">Hi 👋, I'm Juuh </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ImJuuh&label=Profile%20views&color=0e75b6&style=flat" alt="ImJuuh" /> </p>
+## Profile
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ImJuuh&theme=" alt="ImJuuh" /></a> </p>
-
-- 🌱 I’m currently learning **PHP, JS, Laravel**
-
-- 📫 How to reach me **@criativatek**
-- ⚡ Fun fact **nothing yet**
-
-<div> <a href="https://github.com/ImJuuh" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/criativatek" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:@criativatek"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/criativatek" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="criativatek" height="30" width="40" /></a><a href="https://instagram.com/criativatek" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="criativatek" height="30" width="40" /></a></p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/php-original.svg" alt="PHP" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/adobe_illustrator-icon%20(1).svg" alt="Adobe Illustrator" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=imjuuh&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F136324910%3Fu%3De9bb30ad6f532f4d57c77a8046f1c268af4b51dd%26v%3D4" alt="imjuuh hero visual" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
-<a href="https://github.com/ImJuuh">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ImJuuh&theme=aura_dark" height="180em" />
-</div>
+**Julia Corrêa** · Frontend or full-stack engineer
+
+## About
+
+> Building useful things and learning in public.
+
+- 📍 Based in **Portugal**
+- 🏢 Working at **Criativatek**
+- 👥 **2** followers · **2** following
+
+*Small, useful work over vague claims.*
+
+## Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+## Signals
+
+<table>
+<tr><td align="center"><b>5</b><br/><sub>repos</sub></td><td align="center"><b>0</b><br/><sub>stars</sub></td><td align="center"><b>84</b><br/><sub>contributions</sub></td></tr>
+</table>
+
+## Projects
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=imjuuh&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F136324910%3Fu%3De9bb30ad6f532f4d57c77a8046f1c268af4b51dd%26v%3D4" alt="imjuuh projects visual" />
+</p>
+
+## Contact
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=imjuuh&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F136324910%3Fu%3De9bb30ad6f532f4d57c77a8046f1c268af4b51dd%26v%3D4" alt="imjuuh social visual" />
+</p>
+
+<a href="https://github.com/imjuuh">GitHub</a>
+
+<p align="center"><sub>Julia Corrêa · <a href="https://www.gitskins.com/readme-generator?template=community-ashish-singh-chauhan-vfvk">Ashish Singh Chauhan</a> template by <a href="https://www.gitskins.com/creators/ashish11-cyber">@ashish11-cyber</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
