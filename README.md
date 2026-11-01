@@ -39,5 +39,3 @@
 </p>
 
 <a href="https://github.com/imjuuh">GitHub</a>
-
-<p align="center"><sub>Julia Corrêa · <a href="https://www.gitskins.com/readme-generator?template=community-ashish-singh-chauhan-vfvk">Ashish Singh Chauhan</a> template by <a href="https://www.gitskins.com/creators/ashish11-cyber">@ashish11-cyber</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
